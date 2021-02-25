@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jarod\\repos\\KanyeAndRon\\KanyeAndRon\\KanyeAndRon\\KanyeAndRon.csproj",
+      "projectUniqueName": "C:\\Users\\jarod\\repos\\KanyeAndRon\\KanyeAndRon\\KanyeAndRon.csproj",
       "projectName": "KanyeAndRon",
-      "projectPath": "C:\\Users\\jarod\\repos\\KanyeAndRon\\KanyeAndRon\\KanyeAndRon\\KanyeAndRon.csproj",
+      "projectPath": "C:\\Users\\jarod\\repos\\KanyeAndRon\\KanyeAndRon\\KanyeAndRon.csproj",
       "packagesPath": "C:\\Users\\jarod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jarod\\repos\\KanyeAndRon\\KanyeAndRon\\KanyeAndRon\\obj\\",
+      "outputPath": "C:\\Users\\jarod\\repos\\KanyeAndRon\\KanyeAndRon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
